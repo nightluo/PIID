@@ -1,0 +1,5 @@
+./dataset
+./results
+*.jpg
+*.JPG
+__pycache__

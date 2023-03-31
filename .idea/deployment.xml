@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="forwardbeiyu67" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="forwardbeiyu67">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Palette-Image-to-Image-Diffusion-Models" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/Palette-Image-to-Image-Diffusion-Models/checkpoint" />
+            <excludedPath path="/Palette-Image-to-Image-Diffusion-Models/experiments" />
+            <excludedPath path="/Palette-Image-to-Image-Diffusion-Models/datasets" />
+            <excludedPath path="/Palette-Image-to-Image-Diffusion-Models/data" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

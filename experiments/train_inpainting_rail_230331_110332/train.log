@@ -1,0 +1,11 @@
+23-03-31 11:03:32.516 - INFO: Create the log file in directory experiments/train_inpainting_rail_230331_110332.
+
+23-03-31 11:03:32.572 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-03-31 11:03:32.573 - INFO: Dataset for train have 988 samples.
+23-03-31 11:03:32.573 - INFO: Dataset for val have 2 samples.
+23-03-31 11:03:33.407 - INFO: Network [Network() form models.network] is created.
+23-03-31 11:03:33.408 - INFO: Network [Network] weights initialize using [kaiming] method.
+23-03-31 11:03:34.103 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-03-31 11:03:34.491 - INFO: Metric [mae() form models.metric] is created.
+23-03-31 11:03:34.491 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-03-31 11:03:34.492 - INFO: Loss [mse_loss() form models.loss] is created.
